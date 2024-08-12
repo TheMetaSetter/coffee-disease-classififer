@@ -63,7 +63,7 @@ The CNN model was developed using the following architecture:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coffee-disease-classifier.git
+   git clone https://github.com/TheMetaSetter/coffee-disease-classifier.git
    cd coffee-disease-classifier
    ```
 
