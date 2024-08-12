@@ -50,8 +50,8 @@ The CNN model was developed using the following architecture:
 - **Output Layer**: Softmax activation for multi-class classification.
 
 ### Model Performance
-- **Accuracy**: Achieved an accuracy of approximately $82.74%$ on the test set.
-- **Loss**: Final loss value was $0.6329$ on the test set.
+- **Accuracy**: Achieved an accuracy of approximately $75.98$ on the test set.
+- **Loss**: Final loss value was $0.6019$ on the test set.
 
 ## Installation
 ### Prerequisites
