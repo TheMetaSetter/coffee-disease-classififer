@@ -1,0 +1,32 @@
+name: coffee_disease_classifier
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+  another_flutter_splash_screen: ^1.2.1
+  tflite_flutter: ^0.10.4
+  image: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/splash_screen_bg.png
+    - assets/splash_screen_logo.png
+    - assets/home_page_logo.png
+    - assets/labels.txt
+    - assets/model_v_1_0.tflite
+    - assets/labels1.txt
+    - assets/model_unquant.tflite
