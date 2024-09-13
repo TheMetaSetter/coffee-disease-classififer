@@ -1,0 +1,4 @@
+Coffee__cercospora_leaf_spot
+Coffee__healthy
+Coffee__red_spider_mite
+Coffee__rust
